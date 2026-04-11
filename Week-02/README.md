@@ -1,11 +1,13 @@
 # 🚀 Week 2 – Frontier Models & AI Applications
 
 ## 🧠 What I Learned
-- Working with multiple frontier AI models
+- Working with multiple frontier AI models (Gemini, Groq, LLaMA, Ollama)
 - Understanding differences in model reasoning and responses
-- Building user interfaces for AI apps without frontend skills
+- Building AI interfaces without frontend skills using Gradio
 - Streaming responses in real-time chat applications
-- Using system prompts and multi-shot prompting with history
+- Using system prompts and multi-shot prompting with conversation history
+- Generating images using AI models
+- Working with voice (audio input/output) in AI applications
 
 ---
 
@@ -13,37 +15,41 @@
 - Gemini
 - Groq
 - LLaMA
+- Ollama (local models)
 - Gradio
 - Google API
 
 ---
 
 ## 🛠️ What I Built
-- Connected and tested multiple AI models  
-- Compared outputs based on reasoning effort  
-- Built a multimodel interface using Gradio  
+- A multimodel system connecting Gemini, Groq, LLaMA, and Ollama  
+- Compared responses across models based on reasoning and style  
+- Built a basic UI for AI apps using Gradio  
 - Created a streaming chatbot with real-time responses  
-- Implemented system prompts to control AI behavior  
+- Implemented system prompts to control AI personality and behavior  
 - Used multi-shot prompting with conversation history  
+- Generated images using AI models  
+- Experimented with voice-based interaction  
 
 ---
 
 ## 💡 Key Insights
-- Different models respond differently even to the same input  
-- Prompt design heavily influences output quality  
-- Gradio makes it easy to build AI apps without frontend skills  
-- Maintaining conversation history improves chatbot performance  
+- Different models don’t just answer differently — they *reason differently*  
+- Prompt design can completely change output quality and behavior  
+- You can build usable AI apps without traditional frontend skills  
+- Context (chat history) significantly improves responses  
+- Multimodal AI (text, image, voice) opens up far more powerful applications  
 
 ---
 
 ## 🔥 Takeaway
 AI development is not just about using models —  
-it's about choosing the right model, designing prompts effectively,  
-and building systems around them.
+it's about combining models, designing prompts, and building systems  
+that turn raw capabilities into real applications.
 
 ---
 
 ## ⏭️ Next Steps
-- Explore multimodal capabilities  
-- Build more advanced AI interfaces  
-- Optimize model usage and performance  
+- Build more complete AI applications  
+- Improve UI/UX of projects  
+- Explore advanced concepts like RAG and agents  
